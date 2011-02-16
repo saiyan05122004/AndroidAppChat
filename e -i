@@ -1,0 +1,135 @@
+[33mcommit 2c7071aa69ae87ad4fe0971274105692f311767e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Fri Jun 9 23:27:26 2023 +0530
+
+    recent chat is set
+
+[33mcommit a81dc2b48b7ed093c2d054ba0d909648796f1184[m
+Merge: 1b30a22 b0a8838
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Tue May 23 09:42:39 2023 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 1b30a2250302f765d20318aa839daeab5fe8f1f6[m
+Merge: 1749767 0f2ef58
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Mon May 22 17:46:49 2023 +0530
+
+    chat room model is set and connect to fire base
+
+[33mcommit b0a8838700d2bce945c78c8579fa27d354d93cb1[m
+Merge: 1749767 0f2ef58
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Mon May 22 17:46:49 2023 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 17497678be0ffd5190531691724402b91c58198e[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Mon May 22 17:46:29 2023 +0530
+
+    User chat Activity is set
+
+[33mcommit 0f2ef58a71d161b28e4beb028b2c1fc8a0548100[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Mon May 22 17:46:29 2023 +0530
+
+    User chat Activity is set
+
+[33mcommit 1a943d6b0e04caf23cc3213fc35b5127c820a66e[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Mon May 8 00:16:23 2023 +0530
+
+    searching is set in search username activity
+
+[33mcommit 02744037c5e7cd9ba818de7635ab5b8a43fa98f8[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Mon May 8 00:16:07 2023 +0530
+
+    searching is set in search username activity
+
+[33mcommit b14ac732ad8eb83dd9315c4c352b9bc23c974bfe[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Sat Apr 29 14:34:47 2023 +0530
+
+    design SearchUserActivity and set all the buttons active
+
+[33mcommit 779109555392258a1170703614f2a5a307e2271e[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Sat Apr 29 14:34:34 2023 +0530
+
+    design SearchUserActivity and set all the buttons active
+
+[33mcommit b50c984526532bed1ec535fea0846a7726263f86[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Fri Apr 28 15:24:16 2023 +0530
+
+    Design Main activity set search icon and its activity ,set botton Navigation
+
+[33mcommit 3bf57a4095e70d08033fed57873d25222d8428cd[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Fri Apr 28 14:31:06 2023 +0530
+
+    save user details to fire base
+
+[33mcommit 3548f34808691c48daae4b3b47d3cf6deacf8667[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Sun Apr 16 11:47:03 2023 +0530
+
+    clean up unwanted files
+
+[33mcommit 5df9d9fbb19af3ce959607a31c580b96cfc703c8[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Sat Apr 15 21:41:26 2023 +0530
+
+    Otp verified Successfull and resent otp is set
+
+[33mcommit f2d06700389d75761cfaba3190c55b765d861246[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Sat Apr 15 09:17:39 2023 +0530
+
+    color is set and it will work perfectly in dark mode
+
+[33mcommit 68153fb7ca32702be2a6348f4092523ea5992ac8[m
+Merge: 0ca96d2 d3db526
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Sat Apr 15 09:17:19 2023 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 0ca96d247e9f64cfdc9c7aec06051baa4c937078[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Sat Apr 15 09:17:06 2023 +0530
+
+    color is set and it will work perfectly in dark mode
+
+[33mcommit d3db526e6e23067c56ece3ddd0fbdf1df61d52c7[m
+Author: Jerald-Joyson <121479325+Jerald-Joyson@users.noreply.github.com>
+Date:   Fri Apr 14 22:35:25 2023 +0530
+
+    Update README.md
+
+[33mcommit cddb01523cd9d970c1d3e8132ef3b75f3a06db49[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Fri Apr 14 13:16:52 2023 +0530
+
+    Opt sending method is set and check whether it is working, it is working fine when i use test phone number but not in real phone number
+
+[33mcommit f8ba324b79641dc944d4d7865df5832a87bfdc57[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Fri Apr 14 13:16:35 2023 +0530
+
+    Opt sending method is set and check whether it is working, it is working fine when i use test phone number but not in real phone number
+
+[33mcommit 2c2be932d038cef5a4bde5e9e0da8a6dadb25478[m
+Author: Jerald-Joyson <121479325+Jerald-Joyson@users.noreply.github.com>
+Date:   Fri Apr 14 09:10:06 2023 +0530
+
+    readme.md file is created
+
+[33mcommit 1bfb9f8660686d9638ca80f6da54d85db3ad1e5e[m
+Author: Jerald-Joyson <jeraldjoyson.inc@gmail.com>
+Date:   Fri Apr 14 09:05:50 2023 +0530
+
+    login page,splash activity,sending otp page is set , in back end we recive the specific data, this is the initial commit
